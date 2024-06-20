@@ -8,9 +8,7 @@ This repository contains a simple Artificial Neural Network (ANN) implementation
 - [Usage](#usage)
 - [Model Description](#model-description)
 - [Dataset](#dataset)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 This project aims to forecast monthly rainfall in Maharashtra using an ANN model. The dataset used includes the year, month, and rainfall amount. The model is trained to predict the rainfall based on the given year and month.
