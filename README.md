@@ -1,6 +1,6 @@
 # Maharashtra Rainfall Prediction
 
-This repository contains a simple Artificial Neural Network (ANN) implementation using TensorFlow and Keras to forecast monthly rainfall in Maharashtra.
+This repository contains a simple Artificial Neural Network (ANN) implementation using TensorFlow and Keras to forecast monthly rainfall in Maharashtra .
 
 ## Table of Contents
 - [Overview](#overview)
